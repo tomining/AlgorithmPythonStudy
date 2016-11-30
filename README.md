@@ -1,0 +1,2 @@
+# AlgorithmPythonStudy
+Algorithm by python
